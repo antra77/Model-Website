@@ -21,7 +21,7 @@ Premier is a Model Management Website that provides a platform for managing and 
 
 ## Demo
 
-Explore the live demo of the Premier Model Management Website: [Live Demo](https://your-demo-url.com)
+Explore the live demo of the Premier Model Management Website: [Live Demo]([https://your-demo-url.com](https://antra77.github.io/Model-Website/))
 
 ## Features
 
