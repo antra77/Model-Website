@@ -15,7 +15,7 @@
 <h2 id="overview">Overview</h2>
 <p>Premier is a Model Management Website that provides a platform for managing and displaying model portfolios. It is designed to be visually appealing and user-friendly, facilitating seamless navigation for both models and potential clients.</p>
 <h2 id="demo">Demo</h2>
-<p>Explore the live demo of the Premier Model Management Website: <a href="(https://antra77.github.io/Model-Website/)">Live Demo</a></p>
+<p>Explore the live demo of the Premier Model Management Website: <a href="https://antra77.github.io/Model-Website/">Live Demo</a></p>
 <h2 id="features">Features</h2>
 <ul>
 <li><strong>Model Portfolios:</strong> Showcase detailed portfolios for each model, including images, bio, and statistics.</li>
