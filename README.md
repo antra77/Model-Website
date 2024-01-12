@@ -54,9 +54,6 @@ Contributions to enhance the Premier Model Management Website are welcome! If yo
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new pull request.
 
-Certainly! If you used images from Unsplash in your Jacket Shop Website and want to acknowledge them, you can include a section like the following in your README:
-
-```markdown
 ## Acknowledgements
 
 We would like to express our appreciation to Unsplash for providing high-quality, royalty-free images that have been used in this model management website.
