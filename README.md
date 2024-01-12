@@ -56,7 +56,7 @@ Contributions to enhance the Premier Model Management Website are welcome! If yo
 
 ## Acknowledgements
 
-We would like to express our appreciation to Unsplash for providing high-quality, royalty-free images that have been used in this model management website.
+I would like to express my appreciation to Unsplash for providing high-quality, royalty-free images that have been used in this model management website.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
